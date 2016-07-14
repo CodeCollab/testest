@@ -6,7 +6,7 @@ use CodeCollab\Test\Test;
 
 class TestTest extends \PHPUnit_Framework_TestCase
 {
-    public function testBare()
+    public function xtestBare()
     {
         (new Test())->bare();
     }
